@@ -15,5 +15,5 @@ I'm a Software Engineer, Customer Service professional who currently works as a 
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnandrewjaw&show_icons=true&include_all_commits=true&hide_border=true" alt="John's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnandrewjaw&langs_count=8&layout=compact&hide_border=true" alt="John's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnUghiovhe&show_icons=true&include_all_commits=true&hide_border=true" alt="John's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnUghiovhe&langs_count=8&layout=compact&hide_border=true" alt="John's GitHub stats" /> |
 | ------------- | ------------- |
