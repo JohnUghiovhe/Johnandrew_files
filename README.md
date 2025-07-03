@@ -8,7 +8,7 @@ I'm a Software Engineer, Customer Service professional who currently works as a 
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying Backend Engineering at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2025.
-- 🌱 I’m currently learning JavaScript, Nodejs, and Python.
+- 🌱 I’m currently learning JavaScript and Nodejs.
 - 😊 I’m looking for help with open source projects, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing johnandrewjaw@gmail.com.
